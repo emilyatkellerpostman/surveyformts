@@ -1,0 +1,22 @@
+{
+  "name": "newsletter-sign-up-with-success-message-main",
+  "version": "1.0.0",
+  "description": "frontend mentor project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyatkellerpostman/surveyformts.git"
+  },
+  "author": "Emily Negrette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyatkellerpostman/surveyformts/issues"
+  },
+  "homepage": "https://github.com/emilyatkellerpostman/surveyformts#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
